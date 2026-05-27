@@ -17,10 +17,10 @@ how I understand it, and how it connects to real-world scenarios.
 
 | # | Module | Status | Write-up |
 |---|--------|--------|----------|
-| 00 | Introduction | 🟡 In Progress | [View](./week-01-cloud-trends/writeup.md) |
-| 01 | Cloud Concepts Overview | ⬜ Not Started | — |
-| 02 | Cloud Economics and Billing | ⬜ Not Started | — |
-| 03 | AWS Global Infrastructure Overview | ⬜ Not Started | — |
+| 00 | Introduction | Complete | [View](./week-01-cloud-trends/writeup.md) |
+| 01 | Cloud Concepts Overview | Complete | — |
+| 02 | Cloud Economics and Billing | Complete | — |
+| 03 | AWS Global Infrastructure Overview | Complete | — |
 | 04 | AWS Cloud Security | ⬜ Not Started | — |
 | 05 | Networking and Content Delivery | ⬜ Not Started | — |
 | 06 | Compute | ⬜ Not Started | — |
