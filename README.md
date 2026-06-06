@@ -18,10 +18,10 @@ how I understand it, and how it connects to real-world scenarios.
 | # | Module | Status | Write-up |
 |---|--------|--------|----------|
 | 00 | Introduction | Complete | [View](./week-01-cloud-trends/writeup.md) |
-| 01 | Cloud Concepts Overview | Complete | — |
-| 02 | Cloud Economics and Billing | Complete | — |
-| 03 | AWS Global Infrastructure Overview | Complete | — |
-| 04 | AWS Cloud Security | ⬜ Not Started | — |
+| 01 | Cloud Concepts Overview | Complete | [View](./week-02-module-1-cloud-concepts-overview/writeup.md) |
+| 02 | Cloud Economics and Billing | Complete | [View](./week-03-module-2-cloud-economics-and-billing/writeup.md) |
+| 03 | AWS Global Infrastructure Overview | Complete | [View](./week-04-module-3-aws-global-infrastructure-overview/writeup.md) |
+| 04 | AWS Cloud Security | Complete | [View](./week-05-module-4-aws-cloud-security/writeup.md) |
 | 05 | Networking and Content Delivery | ⬜ Not Started | — |
 | 06 | Compute | ⬜ Not Started | — |
 | 07 | Storage | ⬜ Not Started | — |
