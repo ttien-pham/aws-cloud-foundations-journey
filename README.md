@@ -25,7 +25,7 @@ how I understand it, and how it connects to real-world scenarios.
 | 05 | Networking and Content Delivery | Complete | [View](./week-06-module5-networking-and-content-delivery/writeup.md) |
 | 06 | Compute | Complete | [View](./week-07-module06-compute/writeup.md) |
 | 07 | Storage | ⬜ Not Started | — |
-| 08 | Databases | ⬜ Not Started | — |
+| 08 | Databases | Complete | [View](./week-08-module-8-database/writeup.md) |
 | 09 | Cloud Architecture | ⬜ Not Started | — |
 | 10 | Automatic Scaling and Monitoring | ⬜ Not Started | — |
 
